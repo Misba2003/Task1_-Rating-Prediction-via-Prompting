@@ -1,4 +1,4 @@
-                                                                         **Rating prediction via prompting**
+                                                    Rating prediction via prompting
  **Objective**
 
 The goal of Task 1 is to evaluate how different prompt engineering strategies affect the ability of a Large Language Model (LLM) to classify Yelp reviews into 1–5 star ratings, while producing valid structured JSON output.
