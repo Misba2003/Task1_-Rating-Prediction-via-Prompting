@@ -1,4 +1,5 @@
-📌 Objective
+                                                                         **Rating prediction via prompting**
+ **Objective**
 
 The goal of Task 1 is to evaluate how different prompt engineering strategies affect the ability of a Large Language Model (LLM) to classify Yelp reviews into 1–5 star ratings, while producing valid structured JSON output.
 
@@ -11,7 +12,7 @@ Output reliability
 Evaluation of accuracy and JSON validity
 rather than model training.
 
-📊 Dataset
+**Dataset**
 
 Source: Yelp Reviews Dataset (Kaggle)
 
@@ -63,7 +64,7 @@ Defined semantic meaning for each star rating
 Strong output constraints
 Purpose: Improve accuracy and consistency
 
-📈 Evaluation Metrics
+**Evaluation Metrics**
 
 Each prompt version was evaluated using:
 
@@ -93,7 +94,7 @@ Anchored prompts improved both accuracy and reliability
 
 Prompt engineering alone had a strong impact on model performance
 
-📁 Files Included
+📁 **Files Included**
 
 task1_rating_prediction.ipynb – Full implementation, evaluation, and results
 
